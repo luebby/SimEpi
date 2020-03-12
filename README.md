@@ -7,7 +7,12 @@
 
 - `SimulationGrundlagen.R`: dient der Verdeutlichung von bedingten und unbedingten Wahrscheinlichkeiten.
 
+![](SimGrund.png)
+
 - `SimulationEpidemie.R` dient der Verdeutlichung der Auswirkungen von Kontaktreduktionen (Parameter `k`)
 
+![](SimEpi.png)
+
+## 
 
 Fehler, Hinweise usw. erwünscht!

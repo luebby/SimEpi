@@ -44,7 +44,7 @@ ch <- 0.2
 #################
 # Anzahl Kontakte
 # Dies ist der entscheidene Parameter der z.B. durch Absage von Großveranstaltungen verändert wird
-k <- 50
+k <- 10
 
 ###########################
 # Population initialisieren

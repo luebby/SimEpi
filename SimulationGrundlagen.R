@@ -114,6 +114,12 @@ Epi %>%
   filter(Infektion == "Infiziert") %>%
   prop( ~ Symptome, success = "Symptome", data = .)
 
+################################
+# Abbildungen
+gf_bar( ~ Infektion, data = Epi)
+gf_bar( ~ Symptome, data = Epi)
+gf_bar( ~ Infektion | Symptome, data = Epi)
+gf_bar( ~ Symptome | Infektion, data = Epi)
 
 ###########
 # Ergebnis:
