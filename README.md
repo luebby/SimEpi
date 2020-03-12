@@ -9,7 +9,7 @@
 
 ![](SimGrund.png)
 
-- `SimulationEpidemie.R` dient der Verdeutlichung der Auswirkungen von Kontaktreduktionen (Parameter `k`)
+- `SimulationEpidemie.R` dient insbesondere der Verdeutlichung der Auswirkungen von Kontaktreduktionen (Parameter `k`)
 
 ![](SimEpi.png)
 
