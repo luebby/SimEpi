@@ -29,7 +29,7 @@ ggplot(CovidDo, aes(Datum, aktuell.erkrankte.Personen)) +
         axis.ticks.y.left = element_line(color = "orange"),
         axis.text.y.left = element_text(color = "orange"), 
         axis.title.y.left = element_text(color = "orange")) +
-  ggtitle("Covid-19 Verlauf Dortmund", 
+  ggtitle("Covid-19 Entwicklung Dortmund", 
           subtitle = "Unterschiedliche Skalierung beachten!") +
   labs(caption = "Quelle: opendata.dortmund.de ")
   
